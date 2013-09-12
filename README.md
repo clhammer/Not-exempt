@@ -1,4 +1,0 @@
-Not-exempt
-==========
-
-Read me
